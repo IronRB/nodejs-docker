@@ -2,6 +2,8 @@
 
 # Contenizar una aplicación Nodejs con docker
 
+![Node js + Docker](/img/nodejs+docker.jpg)
+
 Esta sección explicará como contenizar una app node js con docker
 
 ## Contenido
